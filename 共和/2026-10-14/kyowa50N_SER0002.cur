@@ -1,0 +1,194 @@
+[Cursor0]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor1]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor2]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor3]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor4]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor5]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor6]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor7]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor8]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor9]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor10]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor11]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor12]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor13]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor14]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor15]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor16]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor17]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor18]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[Cursor19]
+CH=1
+Text=
+X=0.000000
+Y=0.000000
+[ChList]
+No_01=CH1
+No_02=CH2
+No_03=CH3
+No_04=
+No_05=
+No_06=
+No_07=
+No_08=
+No_09=
+No_10=
+No_11=
+No_12=
+No_13=
+No_14=
+No_15=
+No_16=
+[WindowSize]
+Left=1
+Top=1
+Right=1535
+Bottom=911
+[Calc_0]
+Sw=OFF
+X=0
+Xc=1.000000E+0
+Y=0
+Yc=1.000000E+0
+Op=0
+Const=0.000000E+0
+Label=Calc1 ([CH1]*1)+([CH1]*1)+0
+[Calc_1]
+Sw=OFF
+X=0
+Xc=1.000000E+0
+Y=0
+Yc=1.000000E+0
+Op=0
+Const=0.000000E+0
+Label=Calc2 ([CH1]*1)+([CH1]*1)+0
+[Calc_2]
+Sw=OFF
+X=0
+Xc=1.000000E+0
+Y=0
+Yc=1.000000E+0
+Op=0
+Const=0.000000E+0
+Label=Calc3 ([CH1]*1)+([CH1]*1)+0
+[Calc_3]
+Sw=OFF
+X=0
+Xc=1.000000E+0
+Y=0
+Yc=1.000000E+0
+Op=0
+Const=0.000000E+0
+Label=Calc4 ([CH1]*1)+([CH1]*1)+0
+[Zone_Setting]
+Zone 1=0
+Zone 2=0
+Zone 3=0
+Zone 4=0
+Zone 5=0
+Zone 6=0
+Zone 7=0
+Zone 8=0
+Zone 9=0
+Zone 10=0
+Zone 11=0
+Zone 12=0
+Split=0
+Plot=0
+Width=0
+Num_Area=1
+X_Axis 1=0
+X_Axis 2=-1
+X_Axis 3=-1
+X_Axis 4=-1
+[XY_Setting]
+XY_Sel=Radio 01
+Check 01=ON
+CH_Select 01=0
+CH_Select 11=0
+Check 02=OFF
+CH_Select 02=0
+CH_Select 12=0
+Check 03=OFF
+CH_Select 03=0
+CH_Select 13=0
+Check 04=OFF
+CH_Select 04=0
+CH_Select 14=0
+XY_Pen=OFF

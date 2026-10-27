@@ -1,0 +1,18 @@
+Four-mode H_ZZ(s) from 成功3回目.CSV
+Assumption: the Z-direction hammer strike is a unit impulse.
+Detected impact time: 0.0324000 s
+Sampling frequency: 10000.000 Hz
+Matrix-pencil rank: 20
+Common fitted phase-equivalent time shift: -0.000444000 s
+
+ mode  fft_peak_frequency_hz  natural_frequency_hz  damping_ratio  damping_percent  measured_peak_gain  model_gain_magnitude_K  signed_model_gain_K  numerator_constant  denominator_s_coefficient  denominator_constant
+    1             702.667236            708.672078       0.011962         1.196182            0.001533                0.000037            -0.000037         -727.315740                 106.525183          1.982670e+07
+    2             832.824707            836.628916       0.027943         2.794289            0.014165                0.000791            -0.000791       -21866.010080                 293.774450          2.763284e+07
+    3             922.164917            927.195678       0.008936         0.893638            0.003501                0.000063            -0.000063        -2123.419645                 104.122052          3.393927e+07
+    4            1135.940552           1123.531285       0.003199         0.319860            0.001022                0.000007            -0.000007         -325.871698                  45.160138          4.983450e+07
+
+H_ZZ(s) = H_1(s) + H_2(s) + H_3(s) + H_4(s)
+H_1(s) = (-727.31574) / (s^2 + 106.52518 s + 19826697)
+H_2(s) = (-21866.01) / (s^2 + 293.77445 s + 27632837)
+H_3(s) = (-2123.4196) / (s^2 + 104.12205 s + 33939273)
+H_4(s) = (-325.8717) / (s^2 + 45.160138 s + 49834497)

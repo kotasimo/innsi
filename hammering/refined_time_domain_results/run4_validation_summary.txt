@@ -1,0 +1,7 @@
+Independent validation of the run-3 transfer function on 成功4回目.CSV
+No modal frequency, damping, amplitude, or phase was refitted.
+Impact time: 0.0999000 s
+Measured peak amplitude: 3.16315139 V
+Predicted peak amplitude: 2.06700893 V
+RMSE: 0.31158639 V
+R^2: 0.841394036

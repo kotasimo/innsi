@@ -1,0 +1,28 @@
+Simplified transfer functions from 成功3回目.CSV
+Assumed input: unit impulse in Z direction, F_Z(f)=1
+Detected impact time: 0.0324000 s
+Analysis end time: 0.0878000 s
+Samples: 555
+Sampling frequency: 10000.000 Hz
+Frequency-bin spacing: 18.018 Hz
+
+Definitions:
+H_XZ(f) = FFT{v_X(t)}
+H_YZ(f) = FFT{v_Y(t)}
+H_ZZ(f) = FFT{v_Z(t)}
+
+transfer_path  frequency_hz  magnitude_v_per_n_assumed   phase_deg
+         H_XZ   1099.099099                   0.001771   18.705446
+         H_XZ   1135.135135                   0.001294  -87.614821
+         H_XZ   1189.189189                   0.000743 -117.620264
+         H_XZ   1045.045045                   0.000517  104.344184
+         H_XZ   1225.225225                   0.000475  -86.088335
+         H_YZ   1135.135135                   0.007871   89.264176
+         H_YZ   1081.081081                   0.002134 -165.791998
+         H_YZ   1207.207207                   0.001506   61.658861
+         H_YZ    846.846847                   0.000933  -69.928398
+         H_YZ    936.936937                   0.000678 -134.516091
+         H_ZZ    828.828829                   0.013935  -22.439875
+         H_ZZ    918.918919                   0.003436 -100.018992
+         H_ZZ    702.702703                   0.001533   34.123277
+         H_ZZ   1135.135135                   0.001021 -122.812196
