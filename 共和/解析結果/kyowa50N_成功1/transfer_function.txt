@@ -1,0 +1,10 @@
+G(s) = sum_r K_r*omega_r^2/(s^2 + 2*zeta_r*omega_r*s + omega_r^2)
+
+mode 1: fn=247.254586 Hz, zeta=0.35, omega=1553.54638 rad/s, K_relative=0.000669769051
+mode 2: fn=276.733494 Hz, zeta=0.35, omega=1738.76782 rad/s, K_relative=0.000844218661
+mode 3: fn=360.563269 Hz, zeta=0.0428294791, omega=2265.48583 rad/s, K_relative=1.27695018e-05
+mode 4: fn=786.293035 Hz, zeta=0.0387259705, omega=4940.42485 rad/s, K_relative=3.55654926e-05
+mode 5: fn=868.778697 Hz, zeta=0.0211829105, omega=5458.69755 rad/s, K_relative=0.000255028606
+mode 6: fn=915.358607 Hz, zeta=0.0304200222, omega=5751.36775 rad/s, K_relative=3.30387405e-05
+mode 7: fn=1165.39451 Hz, zeta=0.01542842, omega=7322.38969 rad/s, K_relative=1.6478381e-06
+mode 8: fn=1328.11491 Hz, zeta=0.0211847077, omega=8344.7921 rad/s, K_relative=3.3522575e-06

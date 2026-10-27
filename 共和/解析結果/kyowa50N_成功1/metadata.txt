@@ -1,0 +1,18 @@
+source=/workspace/-----/共和/2026-10-14/kyowa50N_成功1.CSV
+procedure_source=研究方針/解析手順２.pdf
+channel=CH3
+input_units=relative unit (not calibrated N)
+sampling_interval_s=100.0e-6
+sampling_frequency_hz=10000
+points=10000
+hit_time_s=0.1141
+baseline_mean_v=0.00354228856
+baseline_std_v=0.00410846112
+hit_threshold_v=0.0246507667
+response_interval_s=0..0.8858
+mode_count=8
+fit_rmse_v=0.0061265342
+transfer_model=G(s)=sum K_r*omega_r^2/(s^2+2*zeta_r*omega_r*s+omega_r^2)
+gain_note=K_relative uses fitted damped-response amplitude under unit-impulse assumption; arbitrary phase/residue and unknown hammer force limit absolute gain.
+input_method=FFT coefficients of selected output interval divided by G(j*omega), equivalent to the periodic particular solution coefficient calculation.
+fmax_hz=500,1000,1500,2000,3000
