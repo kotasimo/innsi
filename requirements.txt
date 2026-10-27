@@ -1,0 +1,5 @@
+# Python 3.12。推移的依存を含むインストールは requirements-lock.txt を使用。
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+pandas==2.2.3

@@ -1,0 +1,33 @@
+# Python / tools
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+# Secrets / local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Large/private inputs and generated results
+/data/external/*
+!/data/external/.gitkeep
+/results/*
+!/results/.gitkeep
+# Editors / OS temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
